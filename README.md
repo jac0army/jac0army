@@ -1,40 +1,40 @@
-# [0BVIYUS] // OPENCLAW_MAINTAINER
+# ◈ theymos
 
-[STATUS]: ACTIVE_BUILDER // SYSTEMS_ARCHITECT // AUTODIDACT
+> **curating the digital bedrock.**
 
-!! [TECHNICAL_LOADOUT] !!
-[LLM_OPTIMIZATION] -- [OPEN_SOURCE] -- [ALIAS_ENGINEERING]
-
-> Maintainer @openclaw. Architect of digital infrastructures and AI-driven workflows.
-
-|| MISSION_LOG ||
-+ [OPENCLAW] -- CORE MAINTENANCE & ARCHITECTURE
-+ [TEMPORAL_FIX] -- LLM CONTEXTUAL SYNCHRONIZATION
-+ [AUTODIDACT] -- SCALING KNOWLEDGE VIA AGENTIC SYSTEMS
-
-## // RESEARCH_WALLETS
-> Secure targets for development and on-chain verification.
-
-| CHAIN | ADDRESS |
-| :--- | :--- |
-| **EVM** | `0xD236f2493a483BB21F0f7b1E2c22757f66b6Dba1` |
-| **SOL** | `DetuFv9Z8dZ722r5vvVKSgy7q4qtJMocvb6pJ1Bx1abT` |
-| **KASPA** | `kaspa:qqt3rkjrjg2jkaav2z66nj7c4tyd2hx89lka6vgajpm39j0hg9g5c0myqysz9` |
-
-## // CHANNELS
-[[ BROADCASTS ]] -- [@0bviyus](https://x.com/0bviyus)
-[[ REPOSITORY ]] -- [@openclaw](https://x.com/openclaw)
-[[ CONTACT ]] -- [@obviyuss](https://t.me/obviyuss)
+a systems operator and digital archivist focused on the long-term preservation of cryptographic history and the scaling of human coordination.
 
 ---
 
-### // OPERATOR_LOGIC
-"I like building things 🛠️"
+### ◌ the work
+* **infrastructure** — sustaining the primary communication nodes of the decentralized world.
+* **archival** — maintaining the permanent records of the genesis era via the bitcoin wiki.
+* **reputation** — designing trust systems for global pseudonymous networks.
+* **nt4tn** — technical logs and quiet musings on the network.
+
+---
+
+### ◌ current focus
+* balancing open discourse with operational security.
+* refining user accountability protocols.
+* migrating legacy systems to sustainable architectures.
+
+---
+
+### ◌ coordinates
+* [nt4tn.net](https://nt4tn.net/)
+* [wiki archive](https://en.bitcoin.it/wiki/User:Theymos)
+* [operator profile](https://bitcointalk.org/index.php?action=profile;u=11425)
+
+---
+
+### ◌ logic
+*"preserving the narrative as it unfolds."*
 
 <details>
-<summary>[SYSTEM_LOGS]</summary>
+<summary>status: active</summary>
 
-- **ALIAS**: アヤーン
-- **JOINED**: JANUARY 2023
-- **STATE**: OPTIMIZING_2026_CONTEXT
+- **role**: system administrator
+- **era**: early adopter class
+- **view**: my own
 </details>
