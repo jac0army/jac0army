@@ -1,60 +1,49 @@
-# <p align="center">🌊 The Deep Dive</p>
+# <p align="center">$\color{#14F195}{\text{Steven Sarmi | Product Engineer & Systems Architect}}$</p>
+> <p align="center"><i>"Pushing towards building thoughtful experiences & solving interesting problems with code."</i></p>
 
-# <p align="center">🦑 fordudesake | The Deep-Sea Architect</p>
+**Engineering the substrate of the decentralized web.** Currently, I am a Product Engineer at the **Solana Foundation**, focused on developing the tools and infrastructure that power the Solana ecosystem. My approach combines high-fidelity design with deep technical execution to create seamless user experiences.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajc5bnNtYWZjeDl1ZGFjdGN4OHNmaHhvZ2xvZ245ZmFmMHNrcXd3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Fud15wE5U9JUA/giphy.gif" alt="Squid Animation" width="300">
-</p>
-
-<p align="center">
-  Donate fish here:<br>
-  <kbd><b>2k53UeAze2ySPB1abxsVXsHRoWRJcavs6SsCFgyG2g7j</b></kbd><br>
-  <code>$SQUIDZ soon...</code>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Founder-Squidz-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Award-Solana_Squid_Prize-14F195?style=for-the-badge&logo=solana&logoColor=white" />
-</p>
-
-> <p align="center"><i>"Ink the chain. Building the most vibrant corners of the Solana ecosystem."</i></p>
+With a history ranging from core DeFi contributions to strategic product design for high-growth startups, I focus on building modular, open-source solutions that scale.
 
 ---
 
-### ⌈ ⚡️ The Deep Dive ⌋
+### $\color{#14F195}{\text{The Core Stack | 技術スタック}}$
 
-I’m **fordudesake**, founder of **Squidz** and a dedicated architect of community-driven growth on Solana. I focus on creating high-fidelity experiences that bridge digital collectibles with genuine community utility.
-
-In June 2021, I was honored to receive the **Solana Squid Prize** from the Solana Foundation for contributions toward making the ecosystem a better, more active place.
-
----
-
-### ⌈ 🦑 Current Mission ⌋
-
-* **🌊 Squidz**: Leading the charge on one of the most recognizable NFT collections in the Solana abyss.
-* **🛠️ Ecosystem Advocacy**: Pushing the boundaries of what's possible with Solana's speed and cost-efficiency.
-* **🤝 Community Synthesis**: Rewarding active participants and building the "social layer" of the blockchain.
+* **$\color{#14F195}{\text{Ecosystem Engineering}}$**: Architecting developer tools and technical substrate at the **Solana Foundation**.
+* **$\color{#14F195}{\text{DeFi Governance}}$**: Former Core Contributor to **Mango**, the open-source DeFi platform on Solana.
+* **$\color{#14F195}{\text{Product Design}}$**: Specialized in engineering design and "thoughtful experiences" at the intersection of code and UX.
 
 ---
 
-### ⌈ 🚀 On-Chain Stats ⌋
+### $\color{#14F195}{\text{The Protocol Layer | プロトコル・レイヤー}}$
 
-* **Project**: [Squidz on Solana](https://magiceden.io/marketplace/squidz)
-* **Recognition**: [Squid Prize Winner (June 2021)](https://medium.com/@0xvogler/solana-squid-prize-5f6f2d074969)
-* **Network**: Solana Mainnet (High-speed, Low-fee)
+* **Capi.dev**: Modular infrastructure for building cross-chain applications.
+* **Symbols.dev**: High-fidelity design systems for the decentralized web.
+* **Senko**: Specialized tooling designed for ecosystem optimization.
+* **Legacy Contributions**: Strategic product, design, and engineering work with **MetaDAO**, **Triton**, and **Vapi**.
 
 ---
 
-### ⌈ 📡 Terminal Access ⌋
+### $\color{#14F195}{\text{Key Transmissions | 主な貢献}}$
 
-* **X (Twitter)**: [@fordudesake](https://x.com/fordudesake)
-* **Project Hub**: [Squidz Discord/Web]
-* **Intelligence**: [Magic Eden Marketplace](https://magiceden.io/)
+* **Solana Tooling**: Developing next-gen utilities to streamline the developer experience across the network.
+* **Open-Source Advocacy**: Maintaining a consistent footprint of high-impact libraries and transparent code.
+* **Growth Architecture**: Previously on the marketing team for **BRD**, scaling one of the industry's early foundational crypto wallets.
+
+---
+
+# <p align="center">$\color{#14F195}{\text{Operations | 実行ターミナル}}$</p>
+
+* **Engineer**: [Solana Foundation](https://solana.org/)
+* **Terminal (X)**: [@stevensarmi_](https://x.com/stevensarmi_)
+* **Intelligence**: [stevensarmi.com](https://www.stevensarmi.com/)
+* **Project Alpha**: [Capi.dev](https://www.capi.dev/)
+* **Repository**: [Symbols.dev](https://www.symbols.dev/)
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andriish06/andriish06/master/codes.gif" width="80">
+  <img src="https://raw.githubusercontent.com/andriish06/andriish06/master/codes.gif" width="100">
   <br>
-  <code>SYSTEM STATUS: MINTING INK... 🦑✨</code>
+  <code>SYSTEM STATUS: SOLVING INTERESTING PROBLEMS...</code>
 </p>
